@@ -1,0 +1,9 @@
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.port-img{
+    width: 200px;
+    height: 200px;
+}
